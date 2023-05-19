@@ -23,7 +23,3 @@ A simple web application that allows you to convert units in different categorie
 - Mass Converter: Converts units between kilograms, pounds, ounces, and more.
 - Time Converter: Converts units between seconds, minutes, hours, days, and more.
 
-## Usage
-
-1. Clone the repository:
-
